@@ -1,0 +1,83 @@
+[
+  {
+    "question": "The two kinds of main memory are",
+    "choice1": "Primary and secondary",
+    "choice2": "Random and Sequential",
+    "choice3": "ROM and RAM",
+    "choice4": "All of the Above",
+    "answer": 1
+  },
+  {
+    "question": "Integrated Circuits (Ics) are related to which generation of computers? A light goes on when caps lock is on",
+    "choice1": "First Generation",
+    "choice2": "Second Generation",
+    "choice3": "Third Generation",
+    "choice4": "Fourth Generation",
+    "answer": 3
+  },
+  {
+    "question": "A hybrid computer is",
+    "choice1": "A digital computer",
+    "choice2": "An analogue computer",
+    "choice3": "Both a digital and analogue computer",
+    "choice4": "None of the Above",
+    "answer": 3
+  },
+  {
+    "question": "Chief component of first generation computer was",
+    "choice1": "Transistors",
+    "choice2": "Vacuum Tubes and Valves",
+    "choice3": "Integrated Circuits",
+    "choice4": "None of the above",
+    "answer": 2
+  },
+  {
+    "question": "Which of the statements is correct about a cathode ray tube VDU?",
+    "choice1": "It is an output device",
+    "choice2": "It is an input device",
+    "choice3": "It is a storage device",
+    "choice4": "It accomodate sound card",
+    "answer": 1
+  },
+  {
+    "question": "Small computers that are not microcomputers are classified as",
+    "choice1": "Micro Computers",
+    "choice2": "Mainframe Computers",
+    "choice3": "Mega processors",
+    "choice4": "Mini computers",
+    "answer": 4
+  },
+  {
+    "question": "Input and Output devices such as monitors and keyboards are classified as",
+    "choice1": "arithmetic units",
+    "choice2": "control unit devices",
+    "choice3": "peripheral devices",
+    "choice4": "main store devices",
+    "answer": 3
+  },
+  {
+    "question": "Line printers, voice synthesizer and computer terminal screens are classic examples of",
+    "choice1": "logic circuit devices",
+    "choice2": "analogue circuit devices",
+    "choice3": "AND gate devices",
+    "choice4": "output devices",
+    "answer": 4
+  },
+  {
+    "question": "Silicon piece with a system circuit on it is termed as",
+    "choice1": "chip",
+    "choice2": "circuit",
+    "choice3": "logical gate",
+    "choice4": "circuit network",
+    "answer": 1
+  },
+  {
+    "question": "Large computers with wide range of peripheral devices are classified as",
+    "choice1": "mainframe computers",
+    "choice2": "mini frame computers",
+    "choice3": "mainframe processors",
+    "choice4": "peripheral interface",
+    "answer": 1
+  }
+  
+]
