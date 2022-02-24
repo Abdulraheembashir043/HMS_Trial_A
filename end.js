@@ -7,7 +7,7 @@ const highScores = JSON.parse(localStorage.getItem('highScores')) || [];
 
 const MAX_HIGH_SCORES = 10;
 
-finalScore.innerText = mostRecentScore * 2 + "%";
+finalScore.innerText = mostRecentScore + "%";
 
 username.addEventListener('keyup', () => {
     saveScoreBtn.disabled = !username.value;
@@ -22,8 +22,8 @@ saveHighScore = (e) => {
     };
     highScores.push(score);
     highScores.sort((a, b) => b.score - a.score);
-    highScores.splice(5);
+    highScores.splice(MAX_HIGH_SCORES);
 
     localStorage.setItem('highScores', JSON.stringify(highScores));
-    window.location.assign('/');
+    window.location.assign('index.html');
 };
