@@ -78,6 +78,326 @@
     "choice3": "mainframe processors",
     "choice4": "peripheral interface",
     "answer": 1
+  },
+  {
+    "question": "A program on a computer that allows the user to create, edit, view, print, rename, copy, or delete files, folders, or an entire file system",
+    "choice1": "File Type",
+    "choice2": "Application",
+    "choice3": "File Management",
+    "choice4": "Operating",
+    "answer": 3
+  },
+  {
+    "question": "The action of gaining access to a computer or a network by entering a username and password is known as ----",
+    "choice1": "Application",
+    "choice2": "Logon",
+    "choice3": "Enter",
+    "choice4": "Memory",
+    "answer": 2
+  },
+  {
+    "question": "Computer chips that store data and programs while the computer is working is called ---",
+    "choice1": "Input device",
+    "choice2": "Output device",
+    "choice3": "Storage device",
+    "choice4": "Memory",
+    "answer": 4
+  },
+  {
+    "question": "------- are additional hardware that are not necessary for a computer to function, but does enhance how the computer can be used",
+    "choice1": "Input devices",
+    "choice2": "Output devices",
+    "choice3": "Storage devices",
+    "choice4": "Peripheral devices",
+    "answer": 4
+  },
+  {
+    "question": "A newly created file that is to be saved for the first time in Microsoft word uses the command -----------------",
+    "choice1": "Storage device",
+    "choice2": "Save",
+    "choice3": "Save as",
+    "choice4": "Save in",
+    "answer": 3
+  },
+  {
+    "question": "MIS is designed to provide information needed for effective decision making by?",
+    "choice1": "consumers",
+    "choice2": "workers",
+    "choice3": "foremen",
+    "choice4": "Managers",
+    "answer": 4
+  },
+  {
+    "question": "A computer program that converts an entire program into machine language is called a/an",
+    "choice1": "Interpreter",
+    "choice2": "Simulator",
+    "choice3": "Compiler",
+    "choice4": "Commander",
+    "answer": 3
+  },
+  {
+    "question": "A computer program that translates one program instructions at a time into machine language is called a/an",
+    "choice1": "Interpreter",
+    "choice2": "CPU",
+    "choice3": "Compiler",
+    "choice4": "Simulator",
+    "answer": 1
+  },
+  {
+    "question": "Unwanted repetitious messages, such as unsolicited bulk e-mail is known as",
+    "choice1": "Spam",
+    "choice2": "Trash",
+    "choice3": "Calibri",
+    "choice4": "Courier",
+    "answer": 1
+  },
+  {
+    "question": "COBOL is widely used in applications",
+    "choice1": "Commercial",
+    "choice2": "Scientific",
+    "choice3": "Space",
+    "choice4": "Mathematical",
+    "answer": 1
+  },
+  {
+    "question": "CLI stands for______________",
+    "choice1": "Commandment Line Interface",
+    "choice2": "Command Line Interaction",
+    "choice3": "Command Line Interface",
+    "choice4": "Command Linear Interface",
+    "answer": 3
+  },
+  {
+    "question": "GUI stands for_______________",
+    "choice1": "Graph User Interface",
+    "choice2": "Graphical User Interface",
+    "choice3": "Graphics User Interface",
+    "choice4": "Google User Interface",
+    "answer": 2
+  },
+  {
+    "question": "A set of rules which govern the conduct or behavior of computer professionals in the use of Computing systems resources is called_______________________",
+    "choice1": "Computer Rules",
+    "choice2": "Computer commandment",
+    "choice3": "Ethics for Computing Professionals",
+    "choice4": "Computer Protocols",
+    "answer": 3
+  },
+  {
+    "question": "HTTP stands for _______________",
+    "choice1": "Hypertext Transmission Protocol",
+    "choice2": "Hypertext Transport Protocol",
+    "choice3": "Hypertext Transfer Protocol",
+    "choice4": "Hypertext Transportation Protocol",
+    "answer": 3
+  },
+  {
+    "question": "URL stands for_____________________",
+    "choice1": "Universal Reform Locator",
+    "choice2": "Universal Resource Location",
+    "choice3": "Uniform Resource Locator",
+    "choice4": "United Reform Location",
+    "answer": 3
+  },
+  {
+    "question": "BCD stands for-------------------",
+    "choice1": "Binary Coded Decimal",
+    "choice2": "Binary Coded Digitals",
+    "choice3": "Binary Characters Decimals",
+    "choice4": "Binary Conducting Decimals",
+    "answer": 1
+  },
+  {
+    "question": "The number of bits the processor can transmit at a given time is called:",
+    "choice1": "Bus width",
+    "choice2": "Word size",
+    "choice3": "Access time",
+    "choice4": "Channel speed",
+    "answer": 2
+  },
+  {
+    "question": "In order to view pages on a web site, the user needs to enter the site address called:",
+    "choice1": "Uniform resource locator",
+    "choice2": "Email address",
+    "choice3": "Postal address",
+    "choice4": "MAC address",
+    "answer": 1
+  },
+  {
+    "question": "Process of reading data from permanent store and writing it to computer's main store is called",
+    "choice1": "Saving data",
+    "choice2": "Loading data",
+    "choice3": "Writing data",
+    "choice4": "Reading data",
+    "answer": 1
+  },
+  {
+    "question": "The meaning of WWW is---------------",
+    "choice1": "Wide Web World",
+    "choice2": "Wide World Web",
+    "choice3": "Web Wide World",
+    "choice4": "World Wide Web",
+    "answer": 4
+  },
+  {
+    "question": "One thousand bytes represent a-----------------------",
+    "choice1": "Megabyte",
+    "choice2": "Gigabyte",
+    "choice3": "Kilobyte",
+    "choice4": "Byte",
+    "answer": 3
+  },
+  {
+    "question": "A step by step procedure used to solve a problem is called",
+    "choice1": "operating system",
+    "choice2": "Algorithm",
+    "choice3": "application program",
+    "choice4": "process",
+    "answer": 2
+  },
+  {
+    "question": "A computer can be defined as an electronic device that can be(choose the most precise definition):",
+    "choice1": "carry out arithmetical operation",
+    "choice2": "carry out logical function",
+    "choice3": "accept and process data using a set of stored instructions",
+    "choice4": "present information on a VDU",
+    "answer": 3
+  },
+  {
+    "question": "The Central Processing Unit:",
+    "choice1": "is operated from the control panel",
+    "choice2": "is controlled by the input data entering the system",
+    "choice3": "controls the auxiliary storage unit",
+    "choice4": "Controls all input, output and processing",
+    "answer": 4
+  },
+  {
+    "question": "Computer follows a simple principle called GIGO which means:",
+    "choice1": "garbage input good output",
+    "choice2": "garbage in garbage out",
+    "choice3": "great instructions great output",
+    "choice4": "good input good output",
+    "answer": 2
+  },
+  {
+    "question": "A bootstrap is:",
+    "choice1": "a memory device",
+    "choice2": "a device to support the computer",
+    "choice3": "a small initialization program to start up a computer",
+    "choice4": "an error correction technique",
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is not hardware:",
+    "choice1": "Magnetic tape",
+    "choice2": "printer",
+    "choice3": "VDU terminal",
+    "choice4": "Assemblers",
+    "answer": 4
+  },
+  {
+    "question": "An operating system",
+    "choice1": "is not required on large computers",
+    "choice2": "is always supplied with the computer",
+    "choice3": "is always supplied with the BASIC",
+    "choice4": "consists of programs that help in the operation of computer",
+    "answer": 4
+  },
+  {
+    "question": "The Internet uses the following protocol:",
+    "choice1": "TCP/IP",
+    "choice2": "IPX/SPX",
+    "choice3": "UDP/IP",
+    "choice4": "TCP/UDP",
+    "answer": 1
+  },
+  {
+    "question": "Internet users connect to the _____________ of the desired ISP",
+    "choice1": "Hard disk",
+    "choice2": "gateway",
+    "choice3": "RAM",
+    "choice4": "ROM",
+    "answer": 2
+  },
+  {
+    "question": "ECG machine is an example of",
+    "choice1": "Discrete Computer",
+    "choice2": "Analogue Computer",
+    "choice3": "Hybrid Computer",
+    "choice4": "Digital Computer",
+    "answer": 3
+  },
+  {
+    "question": "Which of the following are often cute, funny or curious and make you want to pass them on?________________",
+    "choice1": "Posts",
+    "choice2": "Memes",
+    "choice3": "Dooced",
+    "choice4": "Sockpuppet",
+    "answer": 2
+  },
+  {
+    "question": "Mainframe computers were developed in",
+    "choice1": "1960s",
+    "choice2": "1950s",
+    "choice3": "1940s",
+    "choice4": "1930s",
+    "answer": 3
+  },
+  {
+    "question": "The clock rate of a processor is measured in ____",
+    "choice1": "milliseconds",
+    "choice2": "megahertz",
+    "choice3": "megabytes",
+    "choice4": "nanoseconds",
+    "answer": 2
+  },
+  {
+    "question": "Minicomputer is physically bigger compared to",
+    "choice1": "Mainframe Computer",
+    "choice2": "Micro Computer",
+    "choice3": "Super Computer",
+    "choice4": "None of the above",
+    "answer": 2
+  },
+  {
+    "question": "PDP VAX 7500 is an example of",
+    "choice1": "Micro Computers",
+    "choice2": "Mini Computers",
+    "choice3": "Mainframe Computers",
+    "choice4": "None of the above",
+    "answer": 2
+  },
+  {
+    "question": "Micro Computers are also called",
+    "choice1": "Personal Computers",
+    "choice2": "Game Computers",
+    "choice3": "Dedicated Computers",
+    "choice4": "None of the above",
+    "answer": 1
+  },
+  {
+    "question": "Notepad and palmtop are examples of",
+    "choice1": "Mainframe computer",
+    "choice2": "Mini Computer",
+    "choice3": "Micro processors",
+    "choice4": "None of the above",
+    "answer": 3
+  },
+  {
+    "question": "________ is an email chain letter that warns of impending viruses and tries to scare users into forwarding and continuing the prank email",
+    "choice1": "Hoax",
+    "choice2": "Sockpuppet",
+    "choice3": "Dooced",
+    "choice4": "Troll",
+    "answer": 1
+  },
+  {
+    "question": "Physical component of the computer is referred to as",
+    "choice1": "Hardware",
+    "choice2": "Software",
+    "choice3": "Humanware",
+    "choice4": "None of the above",
+    "answer": 1
   }
   
 ]
