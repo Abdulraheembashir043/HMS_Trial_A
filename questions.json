@@ -88,7 +88,7 @@
     "answer": 3
   },
   {
-    "question": "The action of gaining access to a computer or a network by entering a username and password is known as ----",
+    "question": "The action of gaining access to a computer or a network by entering a username and password is known as_______",
     "choice1": "Application",
     "choice2": "Logon",
     "choice3": "Enter",
@@ -96,7 +96,7 @@
     "answer": 2
   },
   {
-    "question": "Computer chips that store data and programs while the computer is working is called ---",
+    "question": "Computer chips that store data and programs while the computer is working is called_______",
     "choice1": "Input device",
     "choice2": "Output device",
     "choice3": "Storage device",
@@ -104,7 +104,7 @@
     "answer": 4
   },
   {
-    "question": "------- are additional hardware that are not necessary for a computer to function, but does enhance how the computer can be used",
+    "question": "_______are additional hardware that are not necessary for a computer to function, but does enhance how the computer can be used",
     "choice1": "Input devices",
     "choice2": "Output devices",
     "choice3": "Storage devices",
@@ -112,7 +112,7 @@
     "answer": 4
   },
   {
-    "question": "A newly created file that is to be saved for the first time in Microsoft word uses the command -----------------",
+    "question": "A newly created file that is to be saved for the first time in Microsoft word uses the command_______",
     "choice1": "Storage device",
     "choice2": "Save",
     "choice3": "Save as",
@@ -160,7 +160,7 @@
     "answer": 1
   },
   {
-    "question": "CLI stands for______________",
+    "question": "CLI stands for_______",
     "choice1": "Commandment Line Interface",
     "choice2": "Command Line Interaction",
     "choice3": "Command Line Interface",
@@ -168,7 +168,7 @@
     "answer": 3
   },
   {
-    "question": "GUI stands for_______________",
+    "question": "GUI stands for_______",
     "choice1": "Graph User Interface",
     "choice2": "Graphical User Interface",
     "choice3": "Graphics User Interface",
@@ -176,7 +176,7 @@
     "answer": 2
   },
   {
-    "question": "A set of rules which govern the conduct or behavior of computer professionals in the use of Computing systems resources is called_______________________",
+    "question": "A set of rules which govern the conduct or behavior of computer professionals in the use of Computing systems resources is called_______",
     "choice1": "Computer Rules",
     "choice2": "Computer commandment",
     "choice3": "Ethics for Computing Professionals",
@@ -184,7 +184,7 @@
     "answer": 3
   },
   {
-    "question": "HTTP stands for _______________",
+    "question": "HTTP stands for_______",
     "choice1": "Hypertext Transmission Protocol",
     "choice2": "Hypertext Transport Protocol",
     "choice3": "Hypertext Transfer Protocol",
@@ -192,7 +192,7 @@
     "answer": 3
   },
   {
-    "question": "URL stands for_____________________",
+    "question": "URL stands for_______",
     "choice1": "Universal Reform Locator",
     "choice2": "Universal Resource Location",
     "choice3": "Uniform Resource Locator",
@@ -200,7 +200,7 @@
     "answer": 3
   },
   {
-    "question": "BCD stands for-------------------",
+    "question": "BCD stands for_______",
     "choice1": "Binary Coded Decimal",
     "choice2": "Binary Coded Digitals",
     "choice3": "Binary Characters Decimals",
@@ -232,7 +232,7 @@
     "answer": 1
   },
   {
-    "question": "The meaning of WWW is---------------",
+    "question": "The meaning of WWW is_______",
     "choice1": "Wide Web World",
     "choice2": "Wide World Web",
     "choice3": "Web Wide World",
@@ -240,7 +240,7 @@
     "answer": 4
   },
   {
-    "question": "One thousand bytes represent a-----------------------",
+    "question": "One thousand bytes represent a_______",
     "choice1": "Megabyte",
     "choice2": "Gigabyte",
     "choice3": "Kilobyte",
@@ -312,7 +312,7 @@
     "answer": 1
   },
   {
-    "question": "Internet users connect to the _____________ of the desired ISP",
+    "question": "Internet users connect to the _______ of the desired ISP",
     "choice1": "Hard disk",
     "choice2": "gateway",
     "choice3": "RAM",
@@ -328,7 +328,7 @@
     "answer": 3
   },
   {
-    "question": "Which of the following are often cute, funny or curious and make you want to pass them on?________________",
+    "question": "Which of the following are often cute, funny or curious and make you want to pass them on?_______",
     "choice1": "Posts",
     "choice2": "Memes",
     "choice3": "Dooced",
@@ -344,7 +344,7 @@
     "answer": 3
   },
   {
-    "question": "The clock rate of a processor is measured in ____",
+    "question": "The clock rate of a processor is measured in_______",
     "choice1": "milliseconds",
     "choice2": "megahertz",
     "choice3": "megabytes",
@@ -384,7 +384,7 @@
     "answer": 3
   },
   {
-    "question": "________ is an email chain letter that warns of impending viruses and tries to scare users into forwarding and continuing the prank email",
+    "question": "_______ is an email chain letter that warns of impending viruses and tries to scare users into forwarding and continuing the prank email",
     "choice1": "Hoax",
     "choice2": "Sockpuppet",
     "choice3": "Dooced",
